@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to bank account related prod api"
+  message: "Welcome to bank account related production apis"
   contactDetails:
     name: "Aman Singh - Product Owner"
     email: "{cipher}9a6bcad0fbd1a4a042ae88a9c0b7fd20be969beb9aa94ac0b63d909e03f0c759"
