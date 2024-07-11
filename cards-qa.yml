@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to card  related QA WEBHOOK api"
+  message: "Welcome to card  related QA Webhook api"
   contactDetails:
     name: "Sam Doe - QA developer"
     email: "sam@bank.com"
