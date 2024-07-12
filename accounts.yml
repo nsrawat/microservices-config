@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to bank account contact support api"
+  message: "Welcome to bank account contact support docker api"
   contactDetails:
     name: "john Doe backend developer"
     email: "john@bank.com"
