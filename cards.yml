@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to  card contact support api"
+  message: "Welcome to  card contact support docker api"
   contactDetails:
     name: "johny - backend developer"
     email: "johny@bank.com"
