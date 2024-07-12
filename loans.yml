@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to  loan contact support api"
+  message: "Welcome to  loan contact support docker api"
   contactDetails:
     name: "johny - backend developer"
     email: "johny@bank.com"
